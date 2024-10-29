@@ -1,3 +1,6 @@
+*.csv
+hvpy_tmp/
+fov_plot_sav/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
